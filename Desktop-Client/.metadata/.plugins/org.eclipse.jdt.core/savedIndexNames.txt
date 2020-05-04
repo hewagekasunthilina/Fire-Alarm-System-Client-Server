@@ -1,6 +1,0 @@
-INDEX VERSION 1.131+E:\SLIIT\Studies\3 RD YEAR 1 ST SEMESTER\DS\Assignments\2\Desktop-Client\.metadata\.plugins\org.eclipse.jdt.core
-1785288346.index
-199950229.index
-4148201273.index
-1871746243.index
-3244772015.index
