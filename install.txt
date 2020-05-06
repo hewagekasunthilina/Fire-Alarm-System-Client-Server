@@ -1,0 +1,9 @@
+
+Desktop Client Login Credentials
+	Username - Admin
+	Password - admi@123
+
+Fire Alarms Dummy app - You have to import the flows.json file to the node-red and deploye it and run.
+
+
+					
